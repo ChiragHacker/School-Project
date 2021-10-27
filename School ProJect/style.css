@@ -1,0 +1,28 @@
+iframe{
+    position: center;
+}
+.nav-li{
+    padding-left: 25px;
+    display:inline;
+    padding-bottom: 50px;
+    font-size: 20px;
+    color: white;
+}
+
+.details{
+    padding-left: 25px;
+    display:inline;
+     margin: auto;
+     float:left;
+    width: 500px;
+    height: 300px;
+     object-fit:cover;
+  border-radius:50%;
+}
+.contact1{
+ padding-left: 50px;
+    display:inline;
+     margin: auto;
+     float:left;
+}
+
