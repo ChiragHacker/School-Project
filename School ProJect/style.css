@@ -20,9 +20,28 @@ iframe{
   border-radius:50%;
 }
 .contact1{
- padding-left: 10px;
+ padding-left: 50px;
     display:inline;
      margin: auto;
      float:left;
+}
+#Achievments{
+    
+}
+.page-header{
+    padding-top: 50px;
+}
+    
+.travel_mainDiv{
+    padding-left: 50px;
+    display:inline;
+     margin: auto;
+     float:left;
+}
+
+.img-responsive{
+    display:inline;
+        width: 400px;
+    height: 300px;
 }
 
